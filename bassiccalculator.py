@@ -1,4 +1,4 @@
-# Name: Idima Ikenna Uzochi
+# Name: Nwankwo Daniel Obinna
 # Reg: 2017364032
 # Dept: ECE 
 # Course: ECE 541
